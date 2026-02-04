@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my works.
 
-🔗 **Live Site:** [https://DeekshaMuralikumar.github.io]
+🔗 **Live Site:** [https://deekshamuralikumar.github.io/Portfolio/]
 
 ## About
 
